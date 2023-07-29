@@ -1,0 +1,46 @@
+header {
+    background-image: url("images/bg1-2.png"); 
+    background-size: cover;
+    height: 520px;
+    }
+    .icon {
+    text-align: center;
+    }
+    .icon i {
+    font-size: 50px;
+    color: black;
+    }
+    .row{
+        padding-top:100px;
+    }
+    .icon a:link{
+        color: rgb(255, 255, 255);
+        text-decoration: none;
+       }
+       .icon a:visited{
+        color: rgb(255, 255, 255);
+        text-decoration: none;
+       }
+    
+   .icon a:hover{
+    color: yellow;
+    text-decoration: none;
+   }
+   .icon a:active{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+   }
+   body{
+    font-family: 'Domine', serif;
+    font-family: 'REM', sans-serif;
+   }
+   .set-align{
+    margin-top: -50px;
+    
+   }
+   .set-row{
+    padding-top: 13px;
+    padding-left: 0;
+    padding-right: 0;
+   }
+ 
